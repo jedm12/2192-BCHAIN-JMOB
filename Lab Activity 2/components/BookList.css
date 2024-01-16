@@ -1,0 +1,47 @@
+*{
+    font-family: 'Poppins', sans-serif;
+     -webkit-user-select: none;
+    -moz-user-select: -moz-none;
+    -o-user-select: none;
+    user-select: none;
+}
+
+body{
+    background-color: #5e5c5c;
+}
+img {
+      -webkit-user-drag: none;
+      -moz-user-drag: none;
+      -o-user-drag: none;
+      user-drag: none;
+}
+img {
+    pointer-events: none;
+}
+
+.movie_card{
+    padding: 0 !important;
+    width: 22rem;
+    margin:14px; 
+    border-radius: 10px;
+    box-shadow: 0 3px 4px 0 rgba(187, 187, 187, 0.2), 0 4px 15px 0 rgba(255, 255, 255, 0.19);
+}
+.movie_card img.book{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 25rem;
+}
+
+h5.card-title.books{
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 50px;
+    width: 80%;
+    height: 4rem;
+    margin-bottom: 0px ;
+}
+
+p.date{
+    margin: none;
+    color: #5e5c5c;
+}
