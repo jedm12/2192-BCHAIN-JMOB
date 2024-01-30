@@ -1,0 +1,12 @@
+#root{ 
+    text-align: center;
+    margin: 0 auto;
+}
+
+.true{
+    background-color: green;
+}
+
+.false{
+    background-color: pink;
+}
