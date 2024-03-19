@@ -23,9 +23,6 @@ contract EtherWallet{
 
 }
 
-// Creating the EtherWallet contract offered valuable insights into the fundamentals 
-// of smart contract development. The process underscored the importance of ownership control and event emission mechanisms in 
-// promoting transparency and security within decentralized systems. While the contract's simplicity is commendable, 
-// exploring additional features and refining its design could unlock greater versatility 
-// and robustness for future applications.
-
+// As the creator of the EtherWallet contract, my goal was to create a safe and effective way to handle Ether transactions on Ethereum. 
+// By adding features like ownership control and event notifications, I made sure the contract was transparent and accountable. 
+// While it does what it's supposed to, I know there's room to make it even better for real-life situations.
