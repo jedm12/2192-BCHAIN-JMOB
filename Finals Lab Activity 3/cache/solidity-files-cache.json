@@ -1,0 +1,41 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "D:\\2192-BCHAIN-JED\\hello-world\\contracts\\HelloWorld.sol": {
+      "lastModificationDate": 1712037156993,
+      "contentHash": "591bc8f2f35e3028f53b15d4a3bfa196",
+      "sourceName": "contracts/HelloWorld.sol",
+      "solcConfig": {
+        "version": "0.8.24",
+        "settings": {
+          "evmVersion": "paris",
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.8.3"
+      ],
+      "artifacts": [
+        "HelloWorld"
+      ]
+    }
+  }
+}
